@@ -36,6 +36,6 @@ b.The duration (in minutes) for which you want to collect data.
 ## File Structure
 The repository contains the following files and folders:
 
-system_usage_data_collector.py: The Python script for collecting and storing system usage data.
+cpu_mem.py: The Python script for collecting and storing system usage data.
 
 README.md: This README file.
