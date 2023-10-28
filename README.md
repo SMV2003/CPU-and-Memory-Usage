@@ -20,8 +20,9 @@ Before you begin, ensure you have met the following requirements:
 3.Navigate to the directory where the script is located.
 
 4.Run the script by entering the following command:
-
-`python cpu_mem.py`
+```bash
+python cpu_mem.py
+```
 
 5.The script will prompt you for the following inputs:
 
