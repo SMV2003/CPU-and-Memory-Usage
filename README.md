@@ -40,4 +40,3 @@ cpu_mem.py: The Python script for collecting and storing system usage data.
 
 README.md: This README file.
 
-test1.xlsx: A test file obtained after letting the program run for 5 mins.
