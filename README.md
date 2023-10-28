@@ -2,11 +2,6 @@
 
 The **System Usage Data Collector** is a Python script that collects and stores information about your system's CPU and memory (RAM) usage over a specified duration. It creates an Excel workbook with the collected data.
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ## Prerequisites
 
